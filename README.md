@@ -1,7 +1,7 @@
 # Spotify Provider for OAuth 2.0 Client
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/dnklbgn/oauth2-spotify)](https://github.com/dnklbgn/oauth2-spotify/releases)
-[![License](https://img.shields.io/packagist/l/dnklbgn/oauth2-spotify)](LICENSE)
+[![License](https://img.shields.io/github/license/dnklbgn/oauth2-spotify)](LICENSE)
 [![Build Status](https://github.com/dnklbgn/oauth2-spotify/actions/workflows/ci.yml/badge.svg)](https://github.com/dnklbgn/oauth2-spotify/actions/workflows/ci.yml)
 [![Code Coverage](https://img.shields.io/codecov/c/gh/dnklbgn/oauth2-spotify)](https://app.codecov.io/gh/dnklbgn/oauth2-spotify)
 [![Downloads](https://img.shields.io/packagist/dt/dnklbgn/oauth2-spotify)](https://packagist.org/packages/dnklbgn/oauth2-spotify)
@@ -29,7 +29,7 @@ Or you can add the following to your `composer.json` file:
 ```json
 {
     "require": {
-        "dnklbgn/oauth2-spotify": "^1.0.0"
+        "dnklbgn/oauth2-spotify": "^1.0"
     }
 }
 ```
